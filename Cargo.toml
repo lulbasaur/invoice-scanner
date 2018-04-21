@@ -1,0 +1,6 @@
+[package]
+name = "invoice-scanner"
+version = "0.1.0"
+authors = ["lulbasaur <lukas.hamberg@gmail.com>"]
+
+[dependencies]
