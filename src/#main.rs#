@@ -1,0 +1,7 @@
+extern crate tesseract_sys;
+extern crate libc;
+
+
+fn main() {
+    println!("Hello, world!");
+}
